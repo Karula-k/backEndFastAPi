@@ -1,0 +1,70 @@
+{
+    "0": {
+      "nama_penyakit": "Coccidiosis",
+      "summary": "Coccidiosis adalah penyakit parasit yang disebabkan oleh berbagai spesies protozoa parasit dari genus Eimeria,",
+      "gejala": [
+        "diare",
+        "penurunan nafsu makan",
+        "kelemahan",
+        "penurunan berat badan",
+        "kematian"
+      ],
+      "obat": [
+        "Amprolium"
+      ]
+    },
+    "1": {
+      "nama_penyakit": "New Castle Disease",
+      "summary": "Penyakit ini disebabkan oleh virus Newcastle disease virus (NDV), yang termasuk dalam keluarga Paramyxoviridae, genus Avulavirus.",
+      "gejala": [
+        "Sesak napas",
+        "bersin",
+        "dan batuk",
+        "Diare",
+        "muntah",
+        "penurunan nafsu makan",
+        "Kelemahan",
+        "pincang",
+        "gerakan linglung",
+        "Penurunan produksi telur pada ayam petelur."
+      ],
+      "obat": [
+        "perawatan suportif"
+      ]
+    },
+    "2": {
+      "nama_penyakit": "Salmonella",
+      "summary": "Salmonella adalah bakteri gram-negatif yang dapat menyebabkan penyakit pada unggas yang dikenal sebagai salmonellosis",
+      "gejala": [
+        "Diare yang seringkali berair dan berlendir",
+        "Kelemahan dan kelesuan",
+        "Nafsu makan menurun",
+        "Muntah atau regurgitasi",
+        "Hidung atau mata yang mengeluarkan lendir atau cairan."
+      ],
+      "obat": [
+        "Disarankan untuk pergi ke dokter"
+      ]
+    },
+    "3": {
+      "nama_penyakit": "Sehat",
+      "summary": "Penting untuk selalu memantau kesehatan ayam Anda secara rutin",
+      "gejala": [
+        "Tingkah laku aktif dan ceria",
+        "Nafsu makan yang baik",
+        "Hidup dengan kepala tegak dan bulu yang rapi",
+        "Kulit bersih dan mata bercahaya",
+        "Pernapasan normal",
+        "Tubuh proporsional dan berat badan yang seimbang",
+        "Pial dan kaki sehat",
+        "Telur yang baik",
+        "Bebas dari tanda-tanda penyakit"
+      ],
+      "obat": [
+        "makanan yang berkualitas",
+        "akses ke air bersih",
+        "menjaga kebersihan kandang",
+        "melakukan vaksinasi"
+      ]
+    }
+  }
